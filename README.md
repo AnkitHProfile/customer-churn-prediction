@@ -111,18 +111,7 @@ This project focuses on predicting customer churn for a telecom company using mu
 - Customer segmentation provided actionable insights for targeted interventions.
 - SHAP explainability enhanced transparency and trust in model predictions.
 
-## Project Structure
-
-customer_churn_project/
-|
-├── data/
-|   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
-|
-├── notebooks/
-|   └── customer_churn_prediction.ipynb
-├── requirements.txt
-.gitignore
-README.md
+<pre> ## Project Structure ```bash customer-churn-prediction/ │ ├── data/ │ └── WA_Fn-UseC_-Telco-Customer-Churn.csv │ ├── notebooks/ │ └── customer_churn_prediction.ipynb │ ├── requirements.txt .gitignore README.md ``` </pre>
 
 ## Project Status
 
