@@ -120,10 +120,9 @@ customer_churn_project/
 |
 ├── notebooks/
 |   └── customer_churn_prediction.ipynb
-|
-├── .gitignore
-|
-└── README.md
+├── requirements.txt
+.gitignore
+README.md
 
 ## Project Status
 
