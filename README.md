@@ -115,4 +115,4 @@ This project focuses on predicting customer churn for a telecom company using mu
 
 Project completed.
 
-Prepared by: Ankit Hiremath
+Project Prepared by: Ankit Hiremath
